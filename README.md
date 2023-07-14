@@ -15,7 +15,7 @@
 
 # :pencil2: My Github Stats
 
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeongsi&layout=donut-vertical&bg_color=ffff&text_color=000000&title_color=000000" /> | <img src="https://github-readme-stats.vercel.app/api?username=hyeongsi&theme=vue&show_icons=true" /> | <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=parksh363" /> |
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeongsi&layout=compact)](https://github.com/hyeongsi/github-readme-stats) | <img src="https://github-readme-stats.vercel.app/api?username=hyeongsi&theme=vue&show_icons=true" /> | <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=parksh363" /> |
 | :--: | :--: | :--: |
 
 </div>
