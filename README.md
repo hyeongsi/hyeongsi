@@ -1,21 +1,16 @@
-<div align="center"> 
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=ADEFD1&height=200&section=header&text=hyeongsi&fontSize=50&animation=fadeIn&fontAlignY=38&desc=welcome%20!&descAlignY=57&descAlign=62)
+## ✋ Hi there 👋
+<p>I started backend development because I love the internet.</p>
+<p>Even though I'm always busy learning new technologies, I still love coding so much.</p>
+<p>I'm studying with the goal of creating a valuable program that can make a positive impact on society.</p>
 
-# :muscle: Skills
-<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white">
-<br/>
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+##
+### 💻Stacks
+<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/><br/>
 
-<br/>
-<br/>
-<br/>
+### 🛠Tools
+<img src="https://img.shields.io/badge/visualstudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/> <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white"/> <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
+##
 
-# :pencil2: My Github Stats
-
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeongsi&layout=compact)](https://github.com/hyeongsi/github-readme-stats) | <img src="https://github-readme-stats.vercel.app/api?username=hyeongsi&theme=vue&show_icons=true" /> | <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=parksh363" /> |
+### :pencil2: My Github Stats
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeongsi&layout=compact)](https://github.com/hyeongsi/github-readme-stats)  | <img src="https://github-readme-stats.vercel.app/api?username=hyeongsi&theme=vue&show_icons=true" /> | <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=parksh363" /> |
 | :--: | :--: | :--: |
-
-</div>
