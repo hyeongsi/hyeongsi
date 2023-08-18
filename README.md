@@ -1,7 +1,6 @@
 ## ✋ Hi there 👋
-<p>I started backend development because I love the internet.</p>
-<p>Even though I'm always busy learning new technologies, I still love coding so much.</p>
-<p>I'm studying with the goal of creating a valuable program that can make a positive impact on society.</p>
+<p>I started back-end develop cause I'm facinated by internet.</p>
+<p>And I make towards creating a rewarding program that believe can make positive impact on society</p>
 
 ##
 ### 💻Stacks
